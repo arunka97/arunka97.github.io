@@ -10,15 +10,13 @@ redirect_from:
 
 **PhD Scholar**
 
-[Department of Electrical Communication Engineering](https://ece.iisc.ac.in/)
+# [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/)
 
-[Indian Institute of Science (IISc), Bengaluru](https://iisc.ac.in/ )
 
-Lab: [Next Generation Wireless Systems Lab](https://ece.iisc.ac.in/~nextgenwrl/index.html ) (SPW 203) 
 
-In October 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with Prof. Neelesh B Mehta. Before joining IISc, I worked as a Radio Frequency Engineer in [Qualcomm India Pvt.Ltd.](https://www.qualcomm.com/home) for 3 years. I completed my M.Tech. in Communication Systems from [IIT Madras](https://www.iitm.ac.in/) in 2017 and B.E. in Electronics and Communications from College of Engineering Guindy, Chennai in 2015. I am a recipient of the Prime Minister's Research Fellowship award by Ministry of Education, Govt of India. My current interests are in the areas of Next generation WLAN systems.
+14+ years of professional experience in Hardware Design & Development. A key contributor to multiple successful products in data communication equipment and storage products, with Broad experience in the Design of Gb Ethernet, PCIe, Serial links and DDR3 memory interfaces. I equally enjoy working in the ﬁeld of High-Speed Design, modelling, and simulating circuits
 
-My resume is available [here](http://arthi314.github.io/files/ArthiS_CV.pdf).
+#My resume is available [here](http://arthi314.github.io/files/ArthiS_CV.pdf).
 
 
 
