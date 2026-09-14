@@ -3,11 +3,11 @@ main:
   - title: "About me"
     url: /about/
     
-  - title: "Academics"
-    url: /academics/
+#  - title: "Academics"
+#    url: /academics/
     
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#   url: /research/
     
 #   - title: "Publications"
 #     url: /publications/
