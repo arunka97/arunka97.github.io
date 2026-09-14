@@ -10,7 +10,7 @@ redirect_from:
 
 **PhD Scholar**
 
-/ [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/)
+// [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/)
 
 
 
