@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Arthi S"
 title_separator          : "-"
-name                     : &name "Arthi S"
+name                     : &name "Arun Kumar Kadarkarai"
 description              : &description "personal description"
 url                      : https://arthi314.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arthi314/arthi314.github.io"
+repository               : "arunka97/arunka97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arthi S"
+  name             : "Arun Kumar Kadarkarai"
   avatar           : "Arthi_S_photo.jpg"
-  bio              : "PhD student, IISc Bangalore"
+  bio              : "Project Engineer, Rockwell Automation"
   location         : "India"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "arthis@iisc.ac.in"
+  email            : "arunka97@gmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
