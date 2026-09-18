@@ -3,14 +3,14 @@ main:
   - title: "About me"
     url: /about/
     
-#  - title: "Academics"
-#    url: /academics/
+ - title: "Signal Integrity"
+    url: /Signal Integrity/
     
-#  - title: "Research"
-#   url: /research/
+ - title: "Power Integrity"
+    url: /Power Integrity/
     
-#   - title: "Publications"
-#     url: /publications/
+ - title: "Functional Safety"
+    url: /Functional Safety/
 
 #   - title: "Talks"
 #     url: /talks/    
