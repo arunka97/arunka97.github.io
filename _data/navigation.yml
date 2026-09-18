@@ -3,13 +3,13 @@ main:
   - title: "About me"
     url: /about/
     
- - title: "Signal Integrity"
+ - title: "SI"
     url: /SI/
     
- - title: "Power Integrity"
+ - title: "PI"
     url: /PI/
     
- - title: "Functional Safety"
+ - title: "FS"
     url: /FS/
 
 #   - title: "Talks"
