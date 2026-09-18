@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "FS"
+title: "Functional Safety"
 permalink: /fs/
 author_profile: true
 redirect_from:
