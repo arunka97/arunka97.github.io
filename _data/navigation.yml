@@ -2,11 +2,11 @@ main:
   - title: "About me"
     url: /about/
   - title: "SI"
-    url: /SI/
+    url: /si/
   - title: "PI"
-    url: /PI/
+    url: /pi/
   - title: "FS"
-    url: /FS/
+    url: /fs/
   - title: "CV"
     url: /cv/
 
