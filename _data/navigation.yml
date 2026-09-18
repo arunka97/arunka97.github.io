@@ -4,13 +4,13 @@ main:
     url: /about/
     
  - title: "Signal Integrity"
-    url: /Signal Integrity/
+    url: /SI/
     
  - title: "Power Integrity"
-    url: /Power Integrity/
+    url: /PI/
     
  - title: "Functional Safety"
-    url: /Functional Safety/
+    url: /FS/
 
 #   - title: "Talks"
 #     url: /talks/    
