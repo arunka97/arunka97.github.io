@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Arun Kumar Kadarkarai
+
 Projec Engineer – Hardware Design, FS Eng (TUV Rheinland)
 =========
 
