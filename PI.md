@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /academics/
+permalink: /PI/
 author_profile: true
 redirect_from:
   - /resume
