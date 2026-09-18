@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Power Integrity"
+title:
 permalink: /pi/
 author_profile: true
 redirect_from:
