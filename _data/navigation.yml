@@ -1,16 +1,14 @@
-# main links links
 main:
   - title: "About me"
     url: /about/
-    
   - title: "SI"
     url: /SI/
-    
   - title: "PI"
     url: /PI/
-    
   - title: "FS"
     url: /FS/
+  - title: "CV"
+    url: /cv/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -24,8 +22,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-   - title: "CV"
-     url: /cv/
+#   - title: "CV"
+#    url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
