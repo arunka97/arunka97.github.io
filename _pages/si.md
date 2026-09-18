@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /SI/
+permalink: /si/
 author_profile: true
 redirect_from:
   - /resume
