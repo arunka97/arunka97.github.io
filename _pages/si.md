@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Research Focus
+Signal Integrity
 ======
 * Understand new (IEEE 802.11ax) and emerging (IEEE 802.11be) WLAN PHY and MAC protocols
 * Analytically model and optimize emerging WLAN PHY and MAC standards
