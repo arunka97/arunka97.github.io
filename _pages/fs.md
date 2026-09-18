@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "FS"
 permalink: /fs/
 author_profile: true
 redirect_from:
