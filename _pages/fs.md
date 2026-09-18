@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+B.E. in Electronics & Communication
+Easwari Engineering College 2007 – 2011
+First Class with Distinction – 75%
+
+M.Tech in Automotive Electronics
+BITS Pilani - WLIP 2023 – 2025 CGPA – 9.23
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Senior Engineer 7 years 8 months
+* Rockwell Automation, Bangalore Jan 2019 – Present
+* Senior Engineer 2 years 3 months
+* L&T Tech Services, Bangalore Oct 2016 – Dec 2018
+* Design Engineer 1 year 8 months
+* Centum Electronics, Bangalore Mar 2015 – Oct 2016
+* Engineer 3 years 1 month
+* Indus Teqsite, Chennai Jul 2011 – Jul 2014
   
 Skills
 ======
