@@ -3,13 +3,13 @@ main:
   - title: "About me"
     url: /about/
     
- - title: "SI"
+  - title: "SI"
     url: /SI/
     
- - title: "PI"
+  - title: "PI"
     url: /PI/
     
- - title: "FS"
+  - title: "FS"
     url: /FS/
 
 #   - title: "Talks"
