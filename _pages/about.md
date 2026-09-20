@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Projec Engineer – Hardware Design, FS Eng (TUV Rheinland)
-=========
+-------------
 
 14+ years of professional experience in Hardware Design & Development. A key contributor to multiple successful products in data communication equipment and storage products, with Broad experience in the Design of Gb Ethernet, PCIe, Serial links and DDR3 memory interfaces. I equally enjoy working in the ﬁeld of High-Speed Design, modelling, and simulating circuits
 
