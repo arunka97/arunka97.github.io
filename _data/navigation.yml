@@ -1,14 +1,14 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "SI"
+  - title: "Signal Integrity"
     url: /si/
   - title: "PI"
     url: /pi/
   - title: "FS"
     url: /fs/
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
 #   - title: "Talks"
 #     url: /talks/    
