@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Staff Engineer – Hardware Board Design, FS Eng (TUV Rheinland)
+Staff Engineer – Hardware Board Design, 
 
 
-14+ years of professional experience in Hardware Design & Development. A key contributor to multiple successful products in data communication equipment and storage products, with Broad experience in the Design of Gb Ethernet, PCIe, Serial links and DDR3 memory interfaces. I equally enjoy working in the ﬁeld of High-Speed Design, modelling, and simulating circuits
+Hardware Design Engineer with 14+ years of experience delivering high-performance hardware solutions across data communications and storage systems. Proven track record in high-speed design, modeling, and circuit simulation, with specialized expertise in Gigabit Ethernet, PCIe, serial links, and DDR3 memory interfaces. Passionate about tackling complex signal/power integrity challenges and optimizing circuit performance.
 
 
 
