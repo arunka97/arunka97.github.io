@@ -3,10 +3,10 @@ main:
     url: /about/
   - title: "Signal Integrity"
     url: /si/
-  - title: "PI"
+  - title: "Power Integrity"
     url: /pi/
-  - title: "FS"
-    url: /fs/
+#  - title: "FS"
+#   url: /fs/
 #  - title: "CV"
 #    url: /cv/
 
