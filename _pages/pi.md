@@ -9,51 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Power Integrity
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+** What is Power Integrity? **
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Power Integrity (PI) is the ability of a PCB's Power Distribution Network (PDN) to provide clean, stable, and reliable power to every device under all operating conditions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+A well-designed PDN maintains the required supply voltage from the Voltage Regulator Module (VRM) to the IC power pins while controlling DC voltage drop, transient voltage fluctuations, ripple, noise, and PDN impedance.
 
-Publications
+As PCB designs become denser and digital switching speeds increase, Power Integrity becomes an important part of achieving reliable high-speed digital, FPGA, processor, memory, ADC/DAC, Ethernet, and mixed-signal designs.
+
+Why is Power Integrity Important?
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Modern devices can draw large amounts of transient current within very short periods of time. The PCB power network must respond to these changes without allowing the supply voltage to move outside the acceptable operating range.
+
+Poor Power Integrity can lead to:
+======
+Excessive IR drop
+Supply voltage droop or overshoot
+Power and ground noise
+Ground bounce
+Excessive ripple
+Increased EMI/EMC risk
+Signal Integrity degradation
+Timing errors and interface instability
+Intermittent system failures
+Unexpected resets or functional failures
+
+The objective of PI engineering is therefore to achieve a low-impedance, low-noise power delivery path across the frequency range relevant to the design.
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
